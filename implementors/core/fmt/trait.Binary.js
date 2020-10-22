@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gdk4"] = [{"text":"impl Binary for AnchorHints","synthetic":false,"types":[]},{"text":"impl Binary for AxisFlags","synthetic":false,"types":[]},{"text":"impl Binary for DragAction","synthetic":false,"types":[]},{"text":"impl Binary for FrameClockPhase","synthetic":false,"types":[]},{"text":"impl Binary for ModifierType","synthetic":false,"types":[]},{"text":"impl Binary for PaintableFlags","synthetic":false,"types":[]},{"text":"impl Binary for SeatCapabilities","synthetic":false,"types":[]},{"text":"impl Binary for SurfaceState","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

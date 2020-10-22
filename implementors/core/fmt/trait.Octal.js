@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gdk4"] = [{"text":"impl Octal for AnchorHints","synthetic":false,"types":[]},{"text":"impl Octal for AxisFlags","synthetic":false,"types":[]},{"text":"impl Octal for DragAction","synthetic":false,"types":[]},{"text":"impl Octal for FrameClockPhase","synthetic":false,"types":[]},{"text":"impl Octal for ModifierType","synthetic":false,"types":[]},{"text":"impl Octal for PaintableFlags","synthetic":false,"types":[]},{"text":"impl Octal for SeatCapabilities","synthetic":false,"types":[]},{"text":"impl Octal for SurfaceState","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
